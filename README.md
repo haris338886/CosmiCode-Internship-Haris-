@@ -58,7 +58,7 @@ This repository contains all the tasks and projects completed during a 6-week Ar
 - [x] Hyperparameter tuning (epochs, batch size, activation)
 - [x] Blog/Note: How neural networks learn
 
-### ✅ Week 6: Final AI Project
+### ✅ Week 6: Mini AI Project
 **Objective:** Apply AI in a real-world mini project.
 
 **Project Options:**
@@ -75,7 +75,27 @@ This repository contains all the tasks and projects completed during a 6-week Ar
 - [x] Submit project code + report
 
 ---
+## 🏆 Final Project: Cat vs Dog Image Classifier Web App
+**Objective:** Apply AI in a real-world project using Flask and TensorFlow/Keras.
 
+**Project Overview:**
+- Build a **web-based Cat vs Dog image classifier**.
+- Use **transfer learning (MobileNetV2)** for CNN model.
+- Train on a **limited dataset (100 images)** or full dataset.
+- Deploy a **Flask web app** for image upload and prediction.
+
+**Tasks:**
+- [x] Collect dataset (Cat & Dog images)
+- [x] Data preprocessing & augmentation
+- [x] Build and train CNN model
+- [x] Save trained model as `model/model.h5`
+- [x] Build Flask web app:
+  - Upload image
+  - Predict Cat/Dog
+  - Display prediction and confidence
+- [x] Design user-friendly UI/UX
+- [x] Test web app with new images
+- [x] Submit final project code + report
 ## 🔧 Setup Instructions
 
 ### Prerequisites
